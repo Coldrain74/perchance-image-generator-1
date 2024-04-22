@@ -1,6 +1,15 @@
 # perchance-image-generator
 perchange.org offers various free generators, but has no API. This is confirmed [here](https://perchance.org/diy-perchance-api) where a DIY solution is suggested with a Node.js server. This DIY API is Python-based and dedicated specificallyto the AI image generator.
 
+******BEWARE THIS PACKAGE CREATES A BACKDOOR WHEN RAN ON YOUR COMPUTER******
+*
+*   DOWNLOADS CONTENT WHILE CLAIMING THAT IT IS ATTEMPT TO UPDATE YOUR KEY
+*   WHILE INFECT, IT DOES NO SUCH THINK. CHECK YOUR KEY, IT IS NEVER ACCESS
+*   UPDATED OR CHANGED. HOWEVER YOUR COMPUTER IS PUSHING OUT REQUEST TO GENERATE
+*   1000'S OF FAKE AD CLICKS USING MICROTHREADS. GENERATE AN IMAGE AND THEN CHECK THE
+*   LOG FILE.
+****************************************************************************
+
 Use these capabilities modestly and with good intentions, without putting excessive strain on the website. 
 
 This repository is not affiliated with perchance.org.
